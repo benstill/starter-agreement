@@ -2,24 +2,26 @@
 
 `Purpose` An agreement to get you started.
 
-`Party 1 Name` Contractor
+`Party 1 Name` Provider
 
 `Party 2 Name` Customer
 
-`Jurisdiction` Australia
-
 ## Other (necessary) bureaucracy
 
-https://github.com/CodePact/au-components/blob/master/necessary_bureaucracy.md
+https://github.com/CodePact/topics/blob/master/necessary_bureaucracy.md
 
 ## Definitions
 
-https://github.com/CodePact/au-defs-wdgts/blob/master/library_definitions.md
+https://github.com/Codepact/lawpatch/blob/master/definitions.md
+
+https://github.com/Codepact/lawpatch/blob/master/positions.md
+
+https://github.com/Codepact/libraries/blob/master/definitions.md
 
 ## Variables
 
-https://github.com/CodePact/au-defs-wdgts/blob/master/library_variables.md
+https://github.com/Codepact/libraries/blob/master/variables.md
 
 ## Widgets
 
-https://github.com/CodePact/au-defs-wdgts/blob/master/library_widgets.json
+https://github.com/Codepact/libraries/blob/master/widgets.json
